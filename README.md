@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Imroz
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning MERN
 - 💞️ I’m looking to collaborate on frontend projects
 - 📫 imrozkhan2258@gmail.com
 
