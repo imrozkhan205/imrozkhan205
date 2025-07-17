@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Imroz
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning MERN
-- 💞️ I’m looking to collaborate on frontend projects
+- 👀 I’m interested in Web development
+- 💞️ I’m looking to collaborate on Full Stack projects
 - 📫 imrozkhan2258@gmail.com
 
 <!---
