@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Imroz
-- 👀 I’m interested in Web development
+- 👀 I’m interested in Web development, Android Development
 - 💞️ I’m looking to collaborate on Full Stack projects
 - 📫 imrozkhan2258@gmail.com
 - 🕸️ https://imroz-portfolio.vercel.app/
