@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web development, Android Development
 - 💞️ I’m looking to collaborate on Full Stack projects
 - 📫 imrozkhan2258@gmail.com
-- 🕸️ https://imroz-portfolio.vercel.app/
+- 🕸️ https://imrozkhan.online
 
 <!---
 imrozkhan205/imrozkhan205 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
