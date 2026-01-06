@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Imroz
-- 👀 I’m interested in Web development, Android Development
-- 💞️ I’m looking to collaborate on Full Stack projects
+- 👋 Hi, I’m Khan Mohammed Imroz 
+- 👀 I’m interested in Web development, Android Development.
+- 💞️ I’m looking to collaborate on Full Stack projects.
 - 📫 imrozkhan2258@gmail.com
 - 🕸️ https://imrozkhan.online
 - 🔗 https://www.linkedin.com/in/khanmohammedimroz/
