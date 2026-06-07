@@ -5,6 +5,7 @@
 - 🕸️ https://imrozkhan.online
 - 🔗 https://www.linkedin.com/in/khanmohammedimroz/
 
+<img width="801" height="354" alt="image" src="https://github.com/user-attachments/assets/fb5170c1-b164-489c-8717-4746dfc22bb9" />
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=imrozkhan205)
 
