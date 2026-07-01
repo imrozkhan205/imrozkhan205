@@ -7,6 +7,7 @@
 
 <img width="801" height="354" alt="image" src="https://github.com/user-attachments/assets/fb5170c1-b164-489c-8717-4746dfc22bb9" />
 <img src="https://leetcode-badge-showcase.vercel.app/api?username=Imroz_Khan" alt="LeetCode Badges" />
+![Views](https://komarev.com)
 
 <!---
 imrozkhan205/imrozkhan205 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
