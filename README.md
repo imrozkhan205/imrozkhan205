@@ -4,7 +4,7 @@
 - 📫 imrozkhan2258@gmail.com
 - 🕸️ https://imrozkhan.online
 - 🔗 https://www.linkedin.com/in/khanmohammedimroz/
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=Imroz_Khan" alt="LeetCode Badges" />
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=Imroz_Khan" alt="LeetCode Badges" width="200" height="500" />
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="50" height="50"/>
