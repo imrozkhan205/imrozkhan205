@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Khan Mohammed Imroz 
 - 👀 I’m interested in Web development, Android Development.
 - 💞️ I’m looking to collaborate on Full Stack projects.
-- 📫 imrozkhan2258@gmail.com
+- 📫 imrozdev@gmail.com
 - 🕸️ https://imrozkhan.online
 - 🔗 https://www.linkedin.com/in/khanmohammedimroz/
 <img src="https://leetcode-badge-showcase.vercel.app/api?username=Imroz_Khan" alt="LeetCode Badges" width="200" height="500" />
