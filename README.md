@@ -1,9 +1,17 @@
 - 👋 Hi, I’m Khan Mohammed Imroz 
 - 👀 I’m interested in Web development, Android Development.
 - 💞️ I’m looking to collaborate on Full Stack projects.
-- 📫 imrozdev@gmail.com
+- 📫 imrozkhan2258@gmail.com
 - 🕸️ https://imrozkhan.online
 - 🔗 https://www.linkedin.com/in/khanmohammedimroz/
+<div align="left">
+  <a href="https://commit-history.com/imrozkhan205">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/imrozkhan205?theme=dark" />
+      <img alt="imrozkhan205's commit history" src="https://commit-history.com/embed/imrozkhan205" />
+    </picture>
+  </a>
+</div>
 <img src="https://leetcode-badge-showcase.vercel.app/api?username=Imroz_Khan" alt="LeetCode Badges" width="200" height="500" />
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/>
