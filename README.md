@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web development, Android Development.
 - 💞️ I’m looking to collaborate on Full Stack projects.
 - 📫 imrozkhan2258@gmail.com
-- 🕸️ https://imrozkhan.online
+- 🕸️ https://imrozkhan.space
 - 🔗 https://www.linkedin.com/in/khanmohammedimroz/
 <div align="left">
   <a href="https://commit-history.com/imrozkhan205">
